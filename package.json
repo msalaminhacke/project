@@ -4,8 +4,8 @@
   "description": "CamInfected - Telegram Camera Access Bot System",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "dev": "nodemon bot.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
